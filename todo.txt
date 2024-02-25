@@ -1,0 +1,4 @@
+- update image to make the font color more readable
+- change color of the buttons
+- change fonts of the buttons
+- update about-me image

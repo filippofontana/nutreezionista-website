@@ -1,12 +1,15 @@
 ---
-title: "Brief Legal Information"
+title: "Domande Frequenti"
 weight: 98
-header_menu_title: "Legal"
-navigation_menu_title: "Legal stuff"
+header_menu_title: "FAQ"
+navigation_menu_title: "FAQ"
 header_menu: true
-detailed_page_path: /legal/
+detailed_page_path: /faq/
 detailed_page_homepage_content: true
 ---
+
+Le domande frequenti che più spesso hanno le persone prima di iniziare un percorso con me sono presenti in **questa pagina** (markdown link).
+
 The file **legal-brief.md** creates an internal link on the cover page without the leading icon.
 
 If the parameter `detailed_page_homepage_content` is set to false neither this section nor the navigation menu entry will be shown (but the link on the cover page will be).

@@ -10,7 +10,7 @@ header_use_video: false
 #
 # Headers are safeHTML, you can use HTML tags such as b,i,u,br
 header_headline: "Dott.ssa Greta Magri"
-header_subheadline: "<b>Biologna Nutrizionista</b> specializzata in <b>alimentazione vegetale</b>"
+header_subheadline: "<b>Biologa Nutrizionista</b> specializzata in <b>alimentazione vegetale</b>"
 
 # Add a 'Go back to top' item to the navigation menu
 # Title: name of navigation menu entry

@@ -1,5 +1,7 @@
 ---
-title: "Welcome"
+title: "Ti do il bevenuto sul mio sito"
+header_menu_title: "Benvenut*"
+navigation_menu_title: "Benvenut*"
 weight: 1
 ---
 

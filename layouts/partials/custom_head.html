@@ -5,25 +5,31 @@
 <!-- Custom CSS via inline styles
      You may use this template to add custom CSS to your site like so: -->
 <style>
-    /* a.btn {
-        color: white!important;
-    } */
+    a.btn {
+        box-shadow: 0px 5px 10px -1px grey;
+    }
     .icons {
         display: flex;
         justify-content: center;
         gap: 25px;
     }
+    img[alt=chi_sono] {
+        width: 600px;
+    }
 :root {
     /* see variables.scss for more variables*/
     /* === Cover / Landing area === */
     /* Used for Landing screen menu buttons, but potentially usable for highlighting other things */
-    /* --highlight: #b18341!important; */
-    --highlight: #adc178!important;
-    --highlight-inverse: var(--cover-text-color);
+    --highlight: #CADF9E!important;
+    --highlight: #dde5b6!important;
+    /* --highlight: #adc178!important; */
     /* Dark section - text color */
     --section-dark-text-color: #3a4145!important;
     /* Dark section - background color */
-    --section-dark-bg-color: #dde5b6!important;
+    --section-dark-bg-color: var(--highlight);
+
+    /* Footer color */
+    --footer-color-background: #3F4531!important;
 
     /* define list element for unnumbered lists, leave empty for default list element */
     /* fa-asterisk is the default icon if this variable definition is missing completely */

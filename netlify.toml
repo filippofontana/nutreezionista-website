@@ -1,0 +1,10 @@
+[build]
+    publish = "exampleSite/public"
+    command = "hugo --gc --minify"
+
+[build.environment]
+    HUGO_VERSION = "0.111.3"
+    HUGO_THEME = "hugo-scroll"
+
+[[plugins]]
+    package = "netlify-plugin-hugo-cache-resources"

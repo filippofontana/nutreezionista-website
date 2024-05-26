@@ -24,7 +24,7 @@ title = "Dott.ssa Greta Magri | Biologa Nutrizionista"
     # services like Twitter or Slack want to generate a preview of a link to your site.
     # See https://gohugo.io/templates/internal#twitter-cards and https://gohugo.io/templates/internal#open-graph.
     # NOT the actual header background image, go to _index.md instead
-    images = ["images/cover-image.jpg"]
+    images = ["images/cover.jpg"]
 
     # When set true, it creates a visual guard (partially transparent rounded box), preventing non-ideal background images from interfering with title/description headings
     # Ideal images are homogenous around the centre and contrasting to the text.
@@ -42,7 +42,7 @@ title = "Dott.ssa Greta Magri | Biologa Nutrizionista"
 
     # A "copyright"-line to be added at the bottom of the page.
     # Hint: Plain HTML is supported in here as well. So you may e.g. add a link to your legal imprint-page.
-    copyright = "© Dott.ssa Greta Magri - P.IVA 11111111 - Sede fiscale"
+    copyright = "© Dott.ssa Greta Magri - P.IVA 04139960365"
 
     # This theme will, by default, inject a design-by-line at the bottom of the page.
     # You can turn it off, but we would really appreciate if you don’t :-)
@@ -59,22 +59,16 @@ title = "Dott.ssa Greta Magri | Biologa Nutrizionista"
     showFooterLinks = false
 
     [params.meta]
-        keywords = "some, keywords, for, seo, you, know, google, duckduckgo, and, such"
+        keywords = "nutrizionista, nutrizione, vegana, vegetariana, vegan, dieta vegana, nutrizionista vegana"
 
     [[params.contacts]]
-        value = "+39 3453216726"
-        label = "phone"
-        url = "tel: +39 3453216726"
-        icon = "fa fa-phone"
-
-    [[params.contacts]]
-        value = "mgreta98@gmail.com"
+        value = "nutrizionista.gretamagri@gmail.com"
         label = "email"
-        url = "mailto: mgreta98@gmail.com"
+        url = "mailto: nutrizionista.gretamagri@gmail.com"
         icon = "fa fa-envelope"
 
     [[params.contacts]]
-        value = "Via Caravaggio 12, Fiorano (MO)"
+        value = "Via Rainusso 90, Modena"
         label = "location"
-        url = "https://maps.app.goo.gl/nFvmrt9x8sTYq6eG9"
+        url = "https://maps.app.goo.gl/UTFUnUhKeEomrEwJ8"
         icon = "fa fa-map-marker"

@@ -1,35 +1,70 @@
 ---
-title: "I servizi che offro"
+title: "Servizi"
 header_menu_title: "Servizi"
 navigation_menu_title: "Servizi"
 weight: 2
 header_menu: true
 ---
 
-Feature notice: This section displays options to customize title:
-- has a normal section title (`title` = "The Services I Offer"),
-- custom welcome screen title (`header_menu_title` = "Services"),
-- custom navigation menu title (`navigation_menu_title` = "My Services").
+Che si tratti di intraprendere un percorso di **passaggio** ad una dieta **vegetariana** o **vegana**,
+di **dimagrimento**, o di **miglioramento** della propria **salute** in presenza di **patologie**
+già accertate, il mio obiettivo è quello di fornire **supporto** e **conoscenze** per affrontarlo
+al meglio.
 
-That is the important part, right? You want to know what I can do for you. This is why I put this right up there into the header menu of the website.
+Ricevo, previo appuntamento, in **studio** a **Modena** oppure **online**.
 
----
+Elaboro **piani alimentari** per:
+- vegetariani e vegani;
+- sovrappeso e obesità;
+- gravidanza e allattamento;
+- menopausa e terza età;
+- allergie e intolleranze;
+- ipercolesterolemia;
+- ipertensione arteriosa;
 
-### Prima visita
+#### Prima visita
 
-This is not an easy task. 
-You will likely have to pay money for this.
+La **prima** visita nutrizionale consiste in un **colloquio** in cui vengono esplorate le **abitudini alimentari**
+e lo **stile di vita** in generale, viene valutata la presenza di eventuali **patologie**, **allergie** o **intolleranze**
+e vengono definiti gli obiettivi. Viene anche effettuata la valutazione delle **analisi del sangue** più recenti
+(*non più vecchie di 1 anno*).
+Successivamente si passa alla rilevazione dei **parametri antropometrici**:
+peso, altezza, analisi della composizione corporea e circonferenze.
 
-### Visite di controllo
+**Durata**: 1:00 h / 1:30 h circa  
+**Costo**: 92€
 
-I can raise your table culture!
+> A seguito della prima visita, nel giro di qualche giorno, verrà inviato il piano nutrizionale
+personalizzato per email.
 
-![Let us get started on a clean slate](images/woman-pouring-juice-on-glass-3184192.jpg)
+#### Visita di controllo
 
-Want to learn more about my services? See [dedicated page](services) with more details.
+La visita di **controllo** viene effettuata solitamente a circa un **mese** di **distanza** dalla prima visita,
+ed è un momento importante per **consolidare** le buone abitudini che si stanno acquisendo.
+Verranno **misurati** **nuovamente** i parametri **antropometrici** ed esaminati insieme dubbi o curiosità,
+valutando **eventuali** modifiche al piano nutrizionale.
 
-### Educazione alimentare
+**Durata**: 30 min circa  
+**Costo**: 50€
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras at viverra ipsum. Pellentesque sit amet aliquam leo, ut maximus erat. Maecenas laoreet odio non pellentesque efficitur. Mauris nec magna laoreet, efficitur risus id, rhoncus ex. Maecenas ac lacus nec turpis fringilla facilisis eu vel lorem. Aenean et quam porttitor, egestas quam a, lobortis turpis. Donec gravida interdum fermentum. Maecenas ligula nisl, convallis eu tempor id, ultrices vel velit. Quisque ac volutpat orci. Aliquam a ligula maximus, viverra tortor ut, tincidunt turpis. Nam a imperdiet erat. Integer egestas tincidunt interdum.
+#### Educazione alimentare
 
-Mauris vel neque tincidunt nulla dignissim commodo a id velit. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; In pharetra laoreet nisi, eu ornare velit pretium a. Aliquam at tellus magna. Morbi facilisis pellentesque sem, sit amet bibendum ex sollicitudin nec. Etiam eu sodales risus, at molestie ligula. Vestibulum ac mauris lacinia, bibendum felis quis, semper quam. Morbi semper blandit condimentum. Maecenas sit amet pellentesque arcu. Donec ut tortor eu turpis lobortis condimentum. Nam imperdiet nunc semper, porttitor ipsum eu, elementum tortor. Vestibulum eu lectus aliquet mauris interdum sagittis. Quisque id urna euismod, porta lorem non, commodo est. Integer sollicitudin ligula nec condimentum elementum.
+La consulenza di **educazione alimentare** prevede, come nel caso della **prima** visita, una prima parte di
+**anamnesi** fisiologica e alimentare per capire quali siano le **abitudini alimentari**.
+**Non** è previsto il rilascio di un **piano** alimentare **personalizzato**, ma verrà inviato un **menù** di **esempio**
+con **ricette stagionali**, **materiale informativo** e **suggerimenti personalizzati** per imparare come nutrirsi al meglio. 
+
+**Durata**: 1:00 h circa  
+**Prezzo**: 82€
+
+#### Visite online
+
+**Tutte** le visite possono essere svolte in **telemedicina**, con l’unica differenza che **non** sarà possibile
+rilevare **direttamente** i parametri **antropometrici**, che dovranno quindi essere **comunicati**
+dal **paziente** (**peso** e **altezza**).
+
+| Tipo di visita | Durata | Costo |
+| -------- | -------- | ------- |
+| Prima visita | 1:00 h circa | 75€ |
+| Visita di controllo | 30 min circa | 40€ |
+| Educazione alimentare | 1:00 h circa | 70€ |

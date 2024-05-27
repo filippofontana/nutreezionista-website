@@ -55,7 +55,7 @@ La consulenza di **educazione alimentare** prevede, come nel caso della **prima*
 con **ricette stagionali**, **materiale informativo** e **suggerimenti personalizzati** per imparare come nutrirsi al meglio. 
 
 **Durata**: 1:00 h circa  
-**Prezzo**: 82€
+**Costo**: 82€
 
 #### Visite online
 

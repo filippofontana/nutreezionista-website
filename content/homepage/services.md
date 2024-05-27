@@ -6,6 +6,8 @@ weight: 2
 header_menu: true
 ---
 
+> Tutti i servizi di nutrizione sono personalizzabili in base alle preferenze alimentari del paziente, siano esse onnivore, vegetariane o vegane.
+
 Che si tratti di intraprendere un percorso di **passaggio** ad una dieta **vegetariana** o **vegana**,
 di **dimagrimento**, o di **miglioramento** della propria **salute** in presenza di **patologie**
 già accertate, il mio obiettivo è quello di fornire **supporto** e **conoscenze** per affrontarlo
@@ -14,7 +16,7 @@ al meglio.
 Ricevo, previo appuntamento, in **studio** a **Modena** oppure **online**.
 
 Elaboro **piani alimentari** per:
-- vegetariani e vegani;
+- persone vegetariane e vegane;
 - sovrappeso e obesità;
 - gravidanza e allattamento;
 - menopausa e terza età;
@@ -24,18 +26,18 @@ Elaboro **piani alimentari** per:
 
 #### Prima visita
 
-La **prima** visita nutrizionale consiste in un **colloquio** in cui vengono esplorate le **abitudini alimentari**
+La prima visita nutrizionale consiste in un **colloquio** in cui vengono esplorate le **abitudini alimentari**
 e lo **stile di vita** in generale, viene valutata la presenza di eventuali **patologie**, **allergie** o **intolleranze**
 e vengono definiti gli obiettivi. Viene anche effettuata la valutazione delle **analisi del sangue** più recenti
 (*non più vecchie di 1 anno*).
 Successivamente si passa alla rilevazione dei **parametri antropometrici**:
 peso, altezza, analisi della composizione corporea e circonferenze.
 
+A seguito della prima visita, nel giro di qualche giorno, verrà inviato il **piano nutrizionale
+personalizzato** per **email**.
+
 **Durata**: 1:00 h / 1:30 h circa  
 **Costo**: 92€
-
-> A seguito della prima visita, nel giro di qualche giorno, verrà inviato il piano nutrizionale
-personalizzato per email.
 
 #### Visita di controllo
 
@@ -50,8 +52,8 @@ valutando **eventuali** modifiche al piano nutrizionale.
 #### Educazione alimentare
 
 La consulenza di **educazione alimentare** prevede, come nel caso della **prima** visita, una prima parte di
-**anamnesi** fisiologica e alimentare per capire quali siano le **abitudini alimentari**.
-**Non** è previsto il rilascio di un **piano** alimentare **personalizzato**, ma verrà inviato un **menù** di **esempio**
+anamnesi fisiologica e alimentare per capire quali siano le **abitudini alimentari**.
+Non è previsto il rilascio di un piano alimentare personalizzato, ma verrà inviato un **menù** di **esempio**
 con **ricette stagionali**, **materiale informativo** e **suggerimenti personalizzati** per imparare come nutrirsi al meglio. 
 
 **Durata**: 1:00 h circa  

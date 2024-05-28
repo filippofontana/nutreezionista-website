@@ -6,7 +6,7 @@ weight: 2
 header_menu: true
 ---
 
-> Tutti i servizi di nutrizione sono personalizzabili in base alle preferenze alimentari del paziente, siano esse onnivore, vegetariane o vegane.
+> *Tutti i servizi di nutrizione sono personalizzabili in base alle preferenze alimentari del paziente, siano esse onnivore, vegetariane o vegane.*
 
 Che si tratti di intraprendere un percorso di **passaggio** ad una dieta **vegetariana** o **vegana**,
 di **dimagrimento**, o di **miglioramento** della propria **salute** in presenza di **patologie**
@@ -30,6 +30,7 @@ La prima visita nutrizionale consiste in un **colloquio** in cui vengono esplora
 e lo **stile di vita** in generale, viene valutata la presenza di eventuali **patologie**, **allergie** o **intolleranze**
 e vengono definiti gli obiettivi. Viene anche effettuata la valutazione delle **analisi del sangue** più recenti
 (*non più vecchie di 1 anno*).
+
 Successivamente si passa alla rilevazione dei **parametri antropometrici**:
 peso, altezza, analisi della composizione corporea e circonferenze.
 
@@ -43,6 +44,7 @@ personalizzato** per **email**.
 
 La visita di **controllo** viene effettuata solitamente a circa un **mese** di **distanza** dalla prima visita,
 ed è un momento importante per **consolidare** le buone abitudini che si stanno acquisendo.
+
 Verranno **misurati** **nuovamente** i parametri **antropometrici** ed esaminati insieme dubbi o curiosità,
 valutando **eventuali** modifiche al piano nutrizionale.
 
@@ -53,6 +55,7 @@ valutando **eventuali** modifiche al piano nutrizionale.
 
 La consulenza di **educazione alimentare** prevede, come nel caso della **prima** visita, una prima parte di
 anamnesi fisiologica e alimentare per capire quali siano le **abitudini alimentari**.
+
 Non è previsto il rilascio di un piano alimentare personalizzato, ma verrà inviato un **menù** di **esempio**
 con **ricette stagionali**, **materiale informativo** e **suggerimenti personalizzati** per imparare come nutrirsi al meglio. 
 

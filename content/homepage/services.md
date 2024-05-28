@@ -9,7 +9,7 @@ header_menu: true
 > *Tutti i servizi di nutrizione sono personalizzabili in base alle preferenze alimentari del paziente, siano esse onnivore, vegetariane o vegane.*
 
 Che si tratti di intraprendere un percorso di **passaggio** ad una dieta **vegetariana** o **vegana**,
-di **dimagrimento**, o di **miglioramento** della propria **salute** in presenza di **patologie**
+di **dimagrimento** o di **miglioramento** della propria **salute** in presenza di **patologie**
 già accertate, il mio obiettivo è quello di fornire **supporto** e **conoscenze** per affrontarlo
 al meglio.
 
@@ -42,8 +42,9 @@ personalizzato** per **email**.
 
 #### :mag_right: Visita di controllo
 
-La visita di **controllo** viene effettuata solitamente a circa un **mese** di **distanza** dalla prima visita,
-ed è un momento importante per **consolidare** le buone abitudini che si stanno acquisendo.
+La visita di **controllo** viene effettuata solitamente a circa un **mese** di **distanza** dalla
+prima visita ed è un momento importante per **consolidare** le buone abitudini che si stanno
+acquisendo.
 
 Verranno **misurati** **nuovamente** i parametri **antropometrici** ed esaminati insieme dubbi o curiosità,
 valutando **eventuali** modifiche al piano nutrizionale.

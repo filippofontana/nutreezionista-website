@@ -10,15 +10,14 @@ header_menu: true
 
 #### :railway_track: Il mio percorso
 
-Mi chiamo Greta Magri e sono una **biologa nutrizionista** specializzata in **alimentazione vegetariana** e **vegana**.
-
+Sono una **biologa nutrizionista** specializzata in **alimentazione vegetariana** e **vegana**.
 
 Sono vegana da 4 anni, ma ho smesso di mangiare carne 8 anni fa. Questa scelta nasce dalla consapevolezza
 dell’**impatto** che tutto ciò che ogni giorno mettiamo nel piatto ha sulla **salute**, sugli **animali** e sull’**ambiente** che ci circonda.
 
 Nel 2022 ho conseguito la **laurea magistrale** in **Biologia**, indirizzo Salute Umana, presso l’**Università di Modena e Reggio Emilia**.
 
-Ho sostenuto l’**esame di stato** e sono regolarmente iscritta all’**Albo dei Biologi** di Emilia-Romagna e Marche (**Sez.A - N. 4905**).
+Ho sostenuto l’**Esame di Stato** e sono regolarmente iscritta all’**Albo dei Biologi** di Emilia-Romagna e Marche (**Sez.A - N. 4905**).
 
 Ho poi approfondito la mia formazione in campo nutrizionale grazie al **Master in Alimentazione e Dietetica Vegetariana**
 dell’Università Politecnica delle Marche, che mi ha permesso di ampliare le mie conoscenze e specializzarmi in questo campo.

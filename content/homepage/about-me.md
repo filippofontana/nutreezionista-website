@@ -12,8 +12,10 @@ header_menu: true
 
 Sono una **biologa nutrizionista** specializzata in **alimentazione vegetariana** e **vegana**.
 
-Sono vegana da 4 anni, ma ho smesso di mangiare carne 8 anni fa. Questa scelta nasce dalla consapevolezza
-dell’**impatto** che tutto ciò che ogni giorno mettiamo nel piatto ha sulla **salute**, sugli **animali** e sull’**ambiente** che ci circonda.
+Sono vegana da {{% years-till-today 2020 %}} anni, ma ho smesso di mangiare carne
+{{% years-till-today 2016 %}} anni fa.
+Questa scelta nasce dalla consapevolezza dell’**impatto** che tutto ciò che ogni giorno mettiamo nel
+piatto ha sulla **salute**, sugli **animali** e sull’**ambiente** che ci circonda.
 
 Nel 2022 ho conseguito la **laurea magistrale** in **Biologia**, indirizzo Salute Umana, presso l’**Università di Modena e Reggio Emilia**.
 

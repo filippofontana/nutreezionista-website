@@ -1,5 +1,5 @@
 ---
-title: "Servizi"
+title: ":woman_health_worker: Servizi"
 header_menu_title: "Servizi"
 navigation_menu_title: "Servizi"
 weight: 2
@@ -24,7 +24,7 @@ Elaboro **piani alimentari** per:
 - ipercolesterolemia;
 - ipertensione arteriosa;
 
-#### Prima visita
+#### :green_apple: Prima visita
 
 La prima visita nutrizionale consiste in un **colloquio** in cui vengono esplorate le **abitudini alimentari**
 e lo **stile di vita** in generale, viene valutata la presenza di eventuali **patologie**, **allergie** o **intolleranze**
@@ -40,7 +40,7 @@ personalizzato** per **email**.
 **Durata**: 1:00 h / 1:30 h circa  
 **Costo**: 92€
 
-#### Visita di controllo
+#### :mag_right: Visita di controllo
 
 La visita di **controllo** viene effettuata solitamente a circa un **mese** di **distanza** dalla prima visita,
 ed è un momento importante per **consolidare** le buone abitudini che si stanno acquisendo.
@@ -51,7 +51,7 @@ valutando **eventuali** modifiche al piano nutrizionale.
 **Durata**: 30 min circa  
 **Costo**: 50€
 
-#### Educazione alimentare
+#### :green_salad: Educazione alimentare
 
 La consulenza di **educazione alimentare** prevede, come nel caso della **prima** visita, una prima parte di
 anamnesi fisiologica e alimentare per capire quali siano le **abitudini alimentari**.
@@ -62,7 +62,7 @@ con **ricette stagionali**, **materiale informativo** e **suggerimenti personali
 **Durata**: 1:00 h circa  
 **Costo**: 82€
 
-#### Visite online
+#### :computer: Visite online
 
 **Tutte** le visite possono essere svolte in **telemedicina**, con l’unica differenza che **non** sarà possibile
 rilevare **direttamente** i parametri **antropometrici**, che dovranno quindi essere **comunicati**

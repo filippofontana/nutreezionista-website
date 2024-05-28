@@ -1,12 +1,14 @@
 ---
-title: "Chi sono"
+title: ":seedling: Chi sono"
+header_menu_title: "Chi sono"
+navigation_menu_title: "Chi sono"
 weight: 3
 header_menu: true
 ---
 
 ![chi_sono](images/profile_photo.jpeg)
 
-##### Il mio percorso
+#### :railway_track: Il mio percorso
 
 Mi chiamo Greta Magri e sono una **biologa nutrizionista** specializzata in **alimentazione vegetariana** e **vegana**.
 

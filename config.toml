@@ -1,8 +1,9 @@
 baseURL = "https://gretamagri.it"
+
 # This is a "one page"-website, so we do not need these kinds of pages...
 disableKinds = ["section", "taxonomy", "term", "RSS", "robotsTXT"]
 
-defaultContentLanguage = "en"
+defaultContentLanguage = "it"
 
 # The name of this wonderful theme ;-).
 theme = "hugo-scroll"
@@ -13,7 +14,7 @@ title = "Dott.ssa Greta Magri | Biologa Nutrizionista"
 # In order to add version information in the page's footer set to true.
 # enableGitInfo = true
 
-# enable emoji processing in Markdown (valid for content files only!)
+# enable emoji processing in Markdown (valid only for pure markdown content)
 enableEmoji = true
 
 # Theme-specific variables `.Site.Params.myParamName`
@@ -41,6 +42,13 @@ enableEmoji = true
 
     # The "description" of your website. This is used in the meta data of your generated html.
     description = "Biologa Nutrizionista specializzata in alimentazione vegetale"
+
+    # Show a menu of languages available
+    language_menu = true
+
+    # Show also a language menu item for the current language, if false only
+    # show the remaining languages
+    show_current_lang = true
 
     # A "copyright"-line to be added at the bottom of the page.
     # Hint: Plain HTML is supported in here as well. So you may e.g. add a link to your legal imprint-page.
@@ -80,3 +88,16 @@ enableEmoji = true
         value = "Via Rainusso 90, Modena"
         url = "https://maps.app.goo.gl/UTFUnUhKeEomrEwJ8"
         icon = "fa fa-map-marker"
+
+# Define additіonal languages
+[languages]
+    [languages.it]
+        weight = 10
+        languageName = "Italiano"
+        contentDir = "content/it"
+
+    [languages.en]
+        title = "Dr. Greta Magri | Nutritionist"
+        weight = 20
+        languageName = "English"
+        contentDir = "content/en"

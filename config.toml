@@ -54,23 +54,29 @@ enableEmoji = true
     invertSectionColors = false
 
     [params.footer]
-    # Show contact icons for email/phone (if specified) in the footer of the page
-    showContactIcons = true
+        # Show contact icons for email/phone (if specified) in the footer of the page
+        showContactIcons = true
 
-    # Show links indicated with footer_menu and footer_menu_title in the footer of the page
-    showFooterLinks = false
+        # Show links indicated with footer_menu and footer_menu_title in the footer of the page
+        showFooterLinks = false
 
     [params.meta]
         keywords = "Greta Magri, biologa, nutrizionista, nutrizione, vegana, vegetariana, vegan, dieta vegana, nutrizionista vegana"
 
     [[params.contacts]]
-        value = "nutrizionista.gretamagri@gmail.com"
+        label = "phone"
+        value = "+39 379 244 3939"
+        url = "tel:+39 379 244 3939"
+        icon = "fa fa-phone"
+
+    [[params.contacts]]
         label = "email"
+        value = "nutrizionista.gretamagri@gmail.com"
         url = "mailto: nutrizionista.gretamagri@gmail.com"
         icon = "fa fa-envelope"
 
     [[params.contacts]]
-        value = "Via Rainusso 90, Modena"
         label = "location"
+        value = "Via Rainusso 90, Modena"
         url = "https://maps.app.goo.gl/UTFUnUhKeEomrEwJ8"
         icon = "fa fa-map-marker"

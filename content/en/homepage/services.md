@@ -1,12 +1,12 @@
 ---
-title: ":woman_health_worker: Services"
-header_menu_title: "Services"
-navigation_menu_title: "Services"
+title: ":woman_health_worker: Consultations"
+header_menu_title: "Consultations"
+navigation_menu_title: "Consultations"
 weight: 2
 header_menu: true
 ---
 
-> *All nutrition services are customizable based on the dietary preferences of the patient,
+> *All consultations are customizable based on the dietary preferences of the patient,
 whether omnivorous, vegetarian, or vegan.*
 
 Whether you want to **transition** to a **vegetarian** or **vegan** diet, **lose** weight,

@@ -1,12 +1,13 @@
 ---
-title: ":woman_health_worker: Servizi"
-header_menu_title: "Servizi"
-navigation_menu_title: "Servizi"
+title: ":woman_health_worker: Consulenze"
+header_menu_title: "Consulenze"
+navigation_menu_title: "Consulenze"
 weight: 2
 header_menu: true
 ---
 
-> *Tutti i servizi di nutrizione sono personalizzabili in base alle preferenze alimentari del paziente, siano esse onnivore, vegetariane o vegane.*
+> *Tutte le consulenze nutrizionali sono personalizzabili in base alle preferenze alimentari del paziente,
+siano esse onnivore, vegetariane o vegane.*
 
 Che si tratti di intraprendere un percorso di **passaggio** ad una dieta **vegetariana** o **vegana**,
 di **dimagrimento** o di **miglioramento** della propria **salute** in presenza di **patologie**

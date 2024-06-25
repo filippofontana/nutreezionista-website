@@ -14,7 +14,7 @@ I am a **nutritionist** specialized in **vegetarian** and **vegan** **nutrition*
 
 It's now my {{% years-till-today 2020 %}}th year as a vegan, but I stopped eating meat
 {{% years-till-today 2016 %}} years ago.
-This choice stems from an awareness of the **impact** that everything we put on our
+This choice comes from the awareness of the **impact** that everything we put on our
 plates every day has on our **health**, the **animals**, and the **environment** around us.
 
 In 2022, I obtained my **Master's** degree in **Biology**, with a focus on **Human Health**,

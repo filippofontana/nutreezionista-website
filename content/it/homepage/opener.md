@@ -6,7 +6,7 @@ weight: 1
 ---
 
 Sono **Greta** e questo è lo spazio in cui puoi avere maggiori
-**informazioni** su di me e sui **servizi** che offro nell'ambito della
+**informazioni** su di me e sulle **consulenze** che offro nell'ambito della
 nutrizione, con un **focus** su quella **vegetariana** e **vegana**.
 
 <!-- Single-page approach is oriented towards small to medium content length, that won't overwhelm the user.  -->

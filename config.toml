@@ -41,10 +41,10 @@ enableEmoji = true
     title = "Dott.ssa Greta Magri | Biologa Nutrizionista"
 
     # The "description" of your website. This is used in the meta data of your generated html.
-    description = """
-        Sono la Dott.ssa Greta Magri, Biologa Nutrizionista specializzata in alimentazione
-        vegetariana e vegana. Visito in presenza a Modena, ma offro anche la possibilità di
-        svolgere consulenze nutrizionali online.
+    description = """\
+        Sono la Dott.ssa Greta Magri, Biologa Nutrizionista specializzata in alimentazione \
+        vegetariana e vegana. Visito in presenza a Modena ed effettuo anche consulenze \
+        nutrizionali online. \
     """
 
     # Show a menu of languages available

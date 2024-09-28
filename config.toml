@@ -74,9 +74,11 @@ enableEmoji = true
 
     [params.meta]
         keywords = """\
-            Greta Magri, Modena, biologa, nutrizionista, biologa nutrizionista, \
-            biologa nutrizionista modena, vegana, vegetariana, vegan, dieta vegana, \
-            nutrizionista vegana \
+            Greta Magri, biologa nutrizionista, Modena, nutrizionista vegana, \
+            nutrizionista vegetariana, nutrizione vegana Modena, consulenza \
+            nutrizionale online, specialista dieta vegetariana, dieta vegana \
+            personalizzata, nutrizionista per dieta vegana e vegetariana, \
+            alimentazione sana Modena\
         """
 
     [[params.contacts]]
@@ -109,3 +111,15 @@ enableEmoji = true
         weight = 20
         languageName = "English"
         contentDir = "content/en"
+    [languages.en.params]
+        description = """\
+            Dr. Greta Magri, Nutritionist specialized in vegetarian and vegan diets. \
+            Consultations available in Modena, Casinalbo, and online.\
+        """
+        [languages.en.params.meta]
+            keywords = """\
+                Greta Magri, nutritionist, Modena, vegan nutritionist, vegetarian nutritionist, \
+                vegan nutrition Modena, online nutrition consultation, vegetarian diet specialist, \
+                personalized vegan diet, nutritionist for vegan and vegetarian diet, \
+                healthy eating Modena\
+            """

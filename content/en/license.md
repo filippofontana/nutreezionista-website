@@ -1,5 +1,8 @@
 ---
 title: Hugo Scroll License
+build:
+    list: never
+    render: never
 ---
 
 The MIT License (MIT)

@@ -1,5 +1,8 @@
 ---
 title: "Services"
+build:
+    list: never
+    render: never
 ---
 
 This is a page about the services, which I offer.

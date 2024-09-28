@@ -1,5 +1,8 @@
 ---
 title: "The single page referenced to by the Legal button on the cover page"
+build:
+    list: never
+    render: never
 ---
 This file is a single page and is referenced by the button `Legal` on the cover start page.
 

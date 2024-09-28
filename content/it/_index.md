@@ -17,4 +17,9 @@ header_subheadline: "<b>Biologa Nutrizionista</b> specializzata in <b>alimentazi
 # Weight (i. e. position in menu): none = no menu entry, first = add as first entry, last = ad as last entry
 nav_to_top_title: "Home"
 nav_to_top_weight: last
+
+name: "Dott.ssa Greta Magri"
+city: "Modena"
+region: "Emilia-Romagna"
+socialMedia: "https://www.instagram.com/nutreezionista/"
 ---

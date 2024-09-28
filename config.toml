@@ -73,10 +73,10 @@ enableEmoji = true
         showFooterLinks = false
 
     [params.meta]
-        keywords = """
-            Greta Magri, Modena, biologa, nutrizionista, biologa nutrizionista,
-            biologa nutrizionista modena, vegana, vegetariana, vegan, dieta vegana,
-            nutrizionista vegana
+        keywords = """\
+            Greta Magri, Modena, biologa, nutrizionista, biologa nutrizionista, \
+            biologa nutrizionista modena, vegana, vegetariana, vegan, dieta vegana, \
+            nutrizionista vegana \
         """
 
     [[params.contacts]]

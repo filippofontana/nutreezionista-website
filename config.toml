@@ -9,7 +9,7 @@ defaultContentLanguage = "it"
 theme = "hugo-scroll"
 
 # The browser tab name
-title = "Dott.ssa Greta Magri | Biologa Nutrizionista"
+title = "Dott.ssa Greta Magri - Biologa Nutrizionista a Modena"
 
 # In order to add version information in the page's footer set to true.
 # enableGitInfo = true
@@ -38,7 +38,7 @@ enableEmoji = true
     # Another "title" :-). This one is used as the site_name on the Hugo's internal
     # opengraph structured data template.
     # See https://ogp.me/ and https://gohugo.io/templates/internal#open-graph.
-    title = "Dott.ssa Greta Magri | Biologa Nutrizionista"
+    title = "Dott.ssa Greta Magri - Biologa Nutrizionista a Modena"
 
     # The "description" of your website. This is used in the meta data of your generated html.
     description = """\
@@ -105,7 +105,7 @@ enableEmoji = true
         contentDir = "content/it"
 
     [languages.en]
-        title = "Dr. Greta Magri | Nutritionist"
+        title = "Dr. Greta Magri - Nutritionist in Modena"
         weight = 20
         languageName = "English"
         contentDir = "content/en"

@@ -79,18 +79,18 @@
 
 <script type="application/ld+json">
 {
-  "@context": "https://schema.org",
-  "@type": "Nutritionist",
-  "name": "{{ .Params.name }}",
-  "address": {
-    "@type": "PostalAddress",
-    "addressLocality": "{{ .Params.city }}",
-    "addressRegion": "{{ .Params.region }}"
-  },
-  "url": "{{ .Permalink }}",
-  "sameAs": [
-    "{{ .Params.socialMedia }}"
-  ]
+    "@context": "https://schema.org",
+    "@type": "Nutritionist",
+    "name": "{{ .Params.name }}",
+    "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "{{ .Params.city }}",
+        "addressRegion": "{{ .Params.region }}"
+    },
+    "url": "{{ .Permalink }}",
+    "sameAs": [
+        "{{ .Params.socialMedia }}"
+    ]
 }
 </script>
 

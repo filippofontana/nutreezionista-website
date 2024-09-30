@@ -6,7 +6,7 @@ weight: 3
 header_menu: true
 ---
 
-![about_me](images/profile_photo.jpeg)
+![Greta Magri nutritionist in Modena](images/profile_photo.jpeg)
 
 #### :railway_track: My journey
 

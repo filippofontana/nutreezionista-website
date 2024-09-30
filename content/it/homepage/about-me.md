@@ -6,7 +6,7 @@ weight: 3
 header_menu: true
 ---
 
-![chi_sono](images/profile_photo.jpeg)
+![Greta Magri biologa nutrizionista Modena](images/profile_photo.jpeg)
 
 #### :railway_track: Il mio percorso
 

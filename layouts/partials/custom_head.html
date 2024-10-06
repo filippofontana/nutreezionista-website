@@ -62,16 +62,28 @@
 <script type="application/ld+json">
 {
     "@context": "https://schema.org",
-    "@type": "Nutritionist",
+    "@type": "IndividualPhysician",
+    "availableService": {
+        "@type": "MedicalProcedure",
+        "name": "{{ .Params.service }}"
+    },
+    "medicalSpecialty": "DietNutrition",
+    "openingHours": "Mo,Fr 09:00-20:00",
+    "currenciesAccepted": "EUR",
+    "paymentAccepted": "Credit Card",
+    "priceRange": "$$",
     "name": "{{ .Params.name }}",
     "address": {
         "@type": "PostalAddress",
-        "addressLocality": "{{ .Params.city }}",
-        "addressRegion": "{{ .Params.region }}"
+        "addressCountry": "IT",
+        "addressLocality": "Modena",
+        "addressRegion": "Emilia-Romagna",
+        "postalCode": "41124",
+        "streetAddress": "Via E. Rainusso 90"
     },
     "url": "{{ .Permalink }}",
     "sameAs": [
-        "{{ .Params.socialMedia }}"
+        "https://www.instagram.com/nutreezionista/"
     ]
 }
 </script>

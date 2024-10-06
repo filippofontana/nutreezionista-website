@@ -19,7 +19,5 @@ nav_to_top_title: "Home"
 nav_to_top_weight: last
 
 name: "Dr. Greta Magri"
-city: "Modena"
-region: "Emilia-Romagna"
-socialMedia: "https://www.instagram.com/nutreezionista/"
+service: "Nutritional consultancy"
 ---

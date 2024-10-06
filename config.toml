@@ -43,7 +43,7 @@ enableEmoji = true
     # The "description" of your website. This is used in the meta data of your generated html.
     description = """\
         Dott.ssa Greta Magri, Biologa Nutrizionista specializzata in alimentazione \
-        vegetariana e vegana. Visite a Modena, Casinalbo e consulenze \
+        vegetariana e vegana. Visite a Modena e consulenze \
         nutrizionali online. \
     """
 
@@ -75,8 +75,10 @@ enableEmoji = true
     [params.meta]
         keywords = """\
             Greta Magri, biologa nutrizionista, biologa nutrizionista Modena, \
-            Modena, nutrizionista vegana Modena, nutrizionista vegana, \
-            nutrizionista vegetariana, nutrizione vegana Modena, nutrizionista vegana online, \
+            nutrizionista vegana Modena, nutrizionista vegana, \
+            nutrizionista vegetariana, nutrizione vegana Modena, \
+            nutrizionista menopausa modena, nutrizionista endometriosi modena, \
+            nutrizionista vegana online, dieta vegana online, \
             consulenza nutrizionale online, specialista dieta vegetariana, dieta vegana \
             personalizzata, specialista dieta vegana, nutrizionista per dieta vegana e vegetariana, \
             dieta vegan, nutrizionista vegan Modena, alimentazione sana Modena\
@@ -121,11 +123,12 @@ enableEmoji = true
     [languages.en.params]
         description = """\
             Dr. Greta Magri, Nutritionist specialized in vegetarian and vegan diets. \
-            Consultations available in Modena, Casinalbo, and online.\
+            Consultations available in Modena and online.\
         """
         [languages.en.params.meta]
             keywords = """\
                 Greta Magri, nutritionist, Modena, vegan nutritionist, vegetarian nutritionist, \
+                vegan diet in Modena, vegan nutritionist in Modena,
                 vegan nutrition Modena, online nutrition consultation, vegetarian diet specialist, \
                 personalized vegan diet, nutritionist for vegan and vegetarian diet, \
                 healthy eating Modena\

@@ -25,7 +25,6 @@ I create **meal plans** for:
 - allergies and intolerances;
 - hypercholesterolemia;
 - hypertension;
-- endometriosis;
 
 #### :green_apple: First visit
 

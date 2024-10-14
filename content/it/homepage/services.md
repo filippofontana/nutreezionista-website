@@ -24,7 +24,6 @@ Elaboro **piani alimentari** per:
 - allergie e intolleranze;
 - ipercolesterolemia;
 - ipertensione arteriosa;
-- endometriosi;
 
 #### :green_apple: Prima visita
 

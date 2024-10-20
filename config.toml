@@ -87,13 +87,13 @@ enableEmoji = true
     [[params.contacts]]
         label = "phone"
         value = "+39 379 244 3939"
-        url = "tel:+39 379 244 3939"
+        url = "tel:+39 3792443939"
         icon = "fa fa-phone"
 
     [[params.contacts]]
         label = "email"
         value = "nutrizionista.gretamagri@gmail.com"
-        url = "mailto: nutrizionista.gretamagri@gmail.com"
+        url = "mailto:nutrizionista.gretamagri@gmail.com"
         icon = "fa fa-envelope"
 
     [[params.contacts]]

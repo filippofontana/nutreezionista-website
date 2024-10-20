@@ -1,3 +1,8 @@
 {{ range .Site.Params.contacts }}
-    <p><i class="{{ .icon }}"></i>&nbsp;<a href="{{ .url | safeURL }}">{{ .value }}</a></p>
+    <p>
+        <i class="{{ .icon }}"></i>&nbsp;
+        <a href="{{ .url | safeURL }}"
+           aria-label="{{ .label }}">{{ .value }}
+        </a>
+    </p>
 {{ end }}

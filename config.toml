@@ -74,14 +74,25 @@ enableEmoji = true
 
     [params.meta]
         keywords = """\
-            Greta Magri, biologa nutrizionista, biologa nutrizionista Modena, \
-            nutrizionista vegana Modena, nutrizionista vegana, \
-            nutrizionista vegetariana, nutrizione vegana Modena, \
-            nutrizionista modena, \
-            nutrizionista vegana online, dieta vegana online, \
-            consulenza nutrizionale online, specialista dieta vegetariana, dieta vegana \
-            personalizzata, specialista dieta vegana, nutrizionista per dieta vegana e vegetariana, \
-            dieta vegan, nutrizionista vegan Modena, alimentazione sana Modena\
+            Greta Magri,\
+            biologa nutrizionista Modena,\
+            nutrizionista vegana Modena,\
+            nutrizionista dieta vegana,\
+            nutrizionista vegetariana Modena,\
+            nutrizione vegetariana e vegana,\
+            consulenza nutrizionale online,\
+            dieta vegana personalizzata,\
+            specialista dieta vegana Modena,\
+            nutrizionista vegetariana online,\
+            dieta vegana per sportivi,\
+            alimentazione sana Modena,\
+            consulenza alimentare vegana,\
+            esperta dieta vegetariana,\
+            nutrizionista per dieta equilibrata,\
+            nutrizione sostenibile Modena,\
+            piani alimentari vegani personalizzati,\
+            consulenze dieta online,\
+            nutrizionista per diete vegane e vegetariane,\
         """
 
     [[params.contacts]]

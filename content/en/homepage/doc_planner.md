@@ -1,7 +1,7 @@
 ---
 title: ":hospital: Book on MioDottore"
-header_menu_title: "Book an appointment"
-navigation_menu_title: "Book an appointment"
+header_menu_title: "Book a visit"
+navigation_menu_title: "Book a visit"
 weight: 5
 header_menu: true
 ---

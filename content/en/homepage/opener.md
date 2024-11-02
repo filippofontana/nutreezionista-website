@@ -5,9 +5,10 @@ navigation_menu_title: "Welcome"
 weight: 1
 ---
 
-I'm **Greta** and this is the place where you can find more **information**
-about me and the **consultations** I offer in the nutrition field, with a focus on
-**vegetarian** and **vegan** diets.
+I'm Greta, a **biologist nutritionist** based in **Modena**, specialized
+in **vegan** and **vegetarian** nutrition.
+This is the space where you can learn more about me and the nutritional
+consultations I offer.
 
 <!-- Single-page approach is oriented towards small to medium content length, that won't overwhelm the user.  -->
 <!-- You can also delegate lengthier, less important or more sizeable content to [dedicated pages](services). -->

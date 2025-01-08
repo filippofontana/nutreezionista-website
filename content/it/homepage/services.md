@@ -63,5 +63,5 @@ dal paziente (peso e altezza).
 
 | Tipo di visita | Durata | Costo |
 | -------- | -------- | :-------: |
-| Prima visita | 1:00 h | 75€ |
+| Prima visita | 1:00 h | 82€ |
 | Visita di controllo | 30 min | 40€ |

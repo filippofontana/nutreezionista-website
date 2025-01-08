@@ -57,5 +57,5 @@ parameters cannot be measured directly and must be provided by the patient (weig
 
 | Type of consultation | Duration | Cost |
 | -------- | -------- | :-------: |
-| First visit | 1:00 h | 75€ |
+| First visit | 1:00 h | 82€ |
 | Follow-Up visit | 30 min | 40€ |

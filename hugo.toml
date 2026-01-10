@@ -115,8 +115,8 @@ enableEmoji = true
 
     [[params.contacts]]
         label = "instagram"
-        value = "@nutreezionista"
-        url = "https://www.instagram.com/nutreezionista/"
+        value = "@nutrizionista_gretamagri"
+        url = "https://www.instagram.com/nutrizionista_gretamagri/"
         icon = "fa fa-instagram"
 
 # Define additіonal languages

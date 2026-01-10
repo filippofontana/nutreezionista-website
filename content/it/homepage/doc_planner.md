@@ -1,3 +1,4 @@
+<!--
 ---
 title: ":hospital: Prenota su MioDottore"
 header_menu_title: "Prenota una visita"
@@ -11,3 +12,4 @@ puoi prenotarla su `MioDottore` tramite il widget sottostante. Potrai scegliere 
 una visita online che in studio.
 
 {{<doc_planner>}}
+-->

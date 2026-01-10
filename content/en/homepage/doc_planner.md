@@ -1,3 +1,4 @@
+<!--
 ---
 title: ":hospital: Book on MioDottore"
 header_menu_title: "Book a visit"
@@ -11,3 +12,4 @@ you can book it on `MioDottore` using the widget below. You can choose either
 an online appointment or an in-clinic visit.
 
 {{<doc_planner>}}
+-->

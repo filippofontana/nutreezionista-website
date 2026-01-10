@@ -2,7 +2,9 @@
     <p>
         <i class="{{ .icon }}"></i>&nbsp;
         <a href="{{ .url | safeURL }}"
-           aria-label="{{ .label }}">{{ .value }}
+           aria-label="{{ .label }}"
+           target="_blank">
+             {{ .value }}
         </a>
     </p>
 {{ end }}

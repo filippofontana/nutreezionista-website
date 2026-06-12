@@ -122,3 +122,33 @@
 }
 </script>
 
+<script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "IndividualPhysician",
+    "availableService": {
+        "@type": "MedicalProcedure",
+        "name": "{{ .Params.service }}"
+    },
+    "medicalSpecialty": "DietNutrition",
+    "image": "https://gretamagri.it/images/nutrizionista_greta_magri_lowres.webp",
+    "telephone": "+393792443939",
+    "openingHours": "Fr 09:00-20:00",
+    "currenciesAccepted": "EUR",
+    "paymentAccepted": "Credit Card",
+    "priceRange": "$$",
+    "name": "{{ .Params.name }}",
+    "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "IT",
+        "addressLocality": "Fiorano Modense",
+        "addressRegion": "Emilia-Romagna",
+        "postalCode": "41042",
+        "streetAddress": "Via Capucchiera 7"
+    },
+    "url": "{{ .Permalink }}",
+    "sameAs": [
+        "https://www.instagram.com/nutreezionista/"
+    ]
+}
+</script>

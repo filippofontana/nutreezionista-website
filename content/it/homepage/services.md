@@ -14,7 +14,7 @@ di dimagrimento o di miglioramento della propria salute in presenza di patologie
 già accertate, il mio obiettivo è quello di fornire supporto e conoscenze per affrontarlo
 al meglio.
 
-Ricevo, previo appuntamento, in studio a Modena oppure online.
+Ricevo, previo appuntamento, in studio a Modena e a Fiorano Modenese oppure online.
 
 Elaboro piani alimentari per:
 

@@ -83,13 +83,19 @@ enableEmoji = true
             consulenza nutrizionale online,\
             dieta vegana personalizzata,\
             specialista dieta vegana Modena,\
+            specialista dieta vegana Fiorano Modenese,\
+            biologa nutrizionista Fiorano Modenese,\
+            nutrizionista vegana Fiorano Modenese,\
+            nutrizionista vegetariana Fiorano Modenese,\
             nutrizionista vegetariana online,\
             dieta vegana per sportivi,\
             alimentazione sana Modena,\
+            alimentazione sana Fiorano Modenese,\
             consulenza alimentare vegana,\
             esperta dieta vegetariana,\
             nutrizionista per dieta equilibrata,\
             nutrizione sostenibile Modena,\
+            nutrizione sostenibile Fiorano Modenese,\
             piani alimentari vegani personalizzati,\
             consulenze dieta online,\
             nutrizionista per diete vegane e vegetariane,\
@@ -109,8 +115,14 @@ enableEmoji = true
 
     [[params.contacts]]
         label = "location"
-        value = "Via Rainusso 90, Modena"
+        value = "Studio CorporeMente, Via Rainusso 90, Modena"
         url = "https://maps.app.goo.gl/UTFUnUhKeEomrEwJ8"
+        icon = "fa fa-map-marker"
+
+    [[params.contacts]]
+        label = "location"
+        value = "Studio Dott.ssa Peggi, Via Capucchiera, 7, Fiorano M."
+        url = "https://maps.app.goo.gl/ohWWYA1MNHkGaxaYA"
         icon = "fa fa-map-marker"
 
     [[params.contacts]]
